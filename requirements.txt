@@ -1,0 +1,12 @@
+# This file can be used to create an environment using:
+# $ python3 -m venv <env_name>
+# $ source <env_name>/bin/activate
+# $ pip install -r <this file>
+torch
+wandb
+pyrallis
+gym[mujoco_py]==0.23.1
+git+https://github.com/Farama-Foundation/d4rl@master#egg=d4rl
+mujoco==2.2.1
+mujoco-py==2.1.2.14
+Cython==0.29.32

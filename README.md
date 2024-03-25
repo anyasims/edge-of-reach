@@ -57,9 +57,9 @@ Example:
 
 ```bash
 python3 train_dynamics_model.py \
-        --env-name halfcheetah-medium-v2 \
+        --env_name halfcheetah-medium-v2 \
         --seed 0 \
-        --save-path <folder_for_saving_trained_dynamics_models>
+        --save_path <folder_for_saving_trained_dynamics_models>
 ```
 
 ### Training RAVL agent
@@ -69,13 +69,13 @@ data `dataset_ratio`, and coefficient for EDAC regularizer `eta`.
 
 ```bash
 python3 train_ravl_agent.py \
-        --env-name halfcheetah-medium-v2 \
-        --num-critics 10 \
-        --steps-k 5 \
-        --dataset-ratio 0.05 \
+        --env_name halfcheetah-medium-v2 \
+        --num_critics 10 \
+        --steps_k 5 \
+        --dataset_ratio 0.05 \
         --eta 1.0 \
         --seed 0 \
-        --load-model-dir <path_to_trained_dynamics_model>
+        --load_model_dir <path_to_trained_dynamics_model>
 ```
 
 # Citation

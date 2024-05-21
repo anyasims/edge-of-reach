@@ -82,7 +82,7 @@ python3 train_ravl_agent.py \
 
 If you use this implementation in your work, please cite us with the following:
 ```
-@misc{sims2024edgeofreach,
+@misc{2024edgeofreach,
       title={The Edge-of-Reach Problem in Offline Model-Based Reinforcement Learning}, 
       author={Anon},
       year={2024},

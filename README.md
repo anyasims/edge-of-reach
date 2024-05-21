@@ -1,14 +1,14 @@
 <h1 align="center">The Edge-of-Reach Problem in Offline Model-Based Reinforcement Learning (RAVL)</h1>
 
 <p align="center">
-    <a href= "https://arxiv.org/abs/2402.12527">
-        <img src="https://img.shields.io/badge/arXiv-2402.12527-b31b1b.svg" /></a>
+    <a href= "https://arxiv.org/abs/anon">
+        <img src="https://img.shields.io/badge/arXiv-removed-b31b1b.svg" /></a>
 </p>
 
 EDGE-OF-REACH is the official implementation of **RAVL** ("Reach-Aware Value Estimation") from the paper:
 
 **_The Edge-of-Reach Problem in Offline Model-Based Reinforcement Learning_**;
-*Anya Sims, Cong Lu, Yee Whye Teh, 2024* [[ArXiv](https://arxiv.org/abs/2402.12527)]
+*Anon, 2024*
  <!-- | [Twitter](https://twitter.com/XXXXXX)] -->
 
 It includes:
@@ -84,9 +84,9 @@ If you use this implementation in your work, please cite us with the following:
 ```
 @misc{sims2024edgeofreach,
       title={The Edge-of-Reach Problem in Offline Model-Based Reinforcement Learning}, 
-      author={Anya Sims and Cong Lu and Yee Whye Teh},
+      author={Anon},
       year={2024},
-      eprint={2402.12527},
+      eprint={removed},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }

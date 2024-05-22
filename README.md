@@ -3,7 +3,7 @@
 EDGE-OF-REACH is the official implementation of **RAVL** ("Reach-Aware Value Estimation") from the paper:
 
 ***The Edge-of-Reach Problem in Offline Model-Based Reinforcement Learning***;
-*Anon, 2024.*
+*Anon.*
 
 It includes:
 

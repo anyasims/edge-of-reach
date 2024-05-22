@@ -1,15 +1,9 @@
 <h1 align="center">The Edge-of-Reach Problem in Offline Model-Based Reinforcement Learning (RAVL)</h1>
 
-<p align="center">
-    <a href= "https://arxiv.org/abs/anon">
-        <img src="https://img.shields.io/badge/arXiv-removed-b31b1b.svg" /></a>
-</p>
-
 EDGE-OF-REACH is the official implementation of **RAVL** ("Reach-Aware Value Estimation") from the paper:
 
 ***The Edge-of-Reach Problem in Offline Model-Based Reinforcement Learning***;
 *Anon, 2024.*
- <!-- | [Twitter](https://twitter.com/XXXXXX)] -->
 
 It includes:
 
@@ -19,7 +13,7 @@ It includes:
 RAVL implementation has [Weights and Biases](https://wandb.ai/site) integration, and is heavily inspired
 by [CORL](https://github.com/tinkoff-ai/CORL) for model-free offline RL - check them out too!<br/>
 
-[**Setup**](#setup) | [**Running experiments**](#running-experiments) | [**Citation**](#citation)
+[**Setup**](#setup) | [**Running experiments**](#running-experiments)
 
 # Setup
 
@@ -77,16 +71,6 @@ python3 train_ravl_agent.py \
         --seed 0 \
         --load_model_dir <path_to_trained_dynamics_model>
 ```
-
-# Citation
-
-If you use this implementation in your work, please cite us with the following:
-```
-@misc{2024edgeofreach,
-      title={The Edge-of-Reach Problem in Offline Model-Based Reinforcement Learning}, 
-      author={Anon},
-      year={2024},
-      eprint={removed},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }

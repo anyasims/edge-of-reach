@@ -11,7 +11,7 @@ It includes:
 2. offline model-based agent training using **RAVL**.
 
 RAVL implementation has [Weights and Biases](https://wandb.ai/site) integration, and is heavily inspired
-by [CORL](https://github.com/tinkoff-ai/CORL) for model-free offline RL - check them out too!<br/>
+by [CORL](https://github.com/tinkoff-ai/CORL) for model-free offline RL.
 
 [**Setup**](#setup) | [**Running experiments**](#running-experiments)
 

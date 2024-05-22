@@ -71,7 +71,4 @@ python3 train_ravl_agent.py \
         --seed 0 \
         --load_model_dir <path_to_trained_dynamics_model>
 ```
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
+

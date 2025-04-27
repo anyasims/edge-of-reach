@@ -11,6 +11,8 @@ EDGE-OF-REACH is the official implementation of **RAVL** ("Reach-Aware Value Est
 *Anya Sims, Cong Lu, Yee Whye Teh, 2024* [[ArXiv](https://arxiv.org/abs/2402.12527)]
  <!-- | [Twitter](https://twitter.com/XXXXXX)] -->
 
+ Published at NeurIPS 2024.
+
 It includes:
 
 1. offline dynamics model training,
